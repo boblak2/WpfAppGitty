@@ -37,7 +37,7 @@ namespace WpfAppGitty
 
         private void Test()
         {
-            //from remote
+            //from remoteR
         }
 
     }
