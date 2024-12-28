@@ -39,6 +39,8 @@ namespace WpfAppGitty
         {
             //from remoteL
             //stash new
+
+            //Stash bond
             //Stash1
         }
 
