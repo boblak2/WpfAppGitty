@@ -25,6 +25,7 @@ namespace WpfAppGitty
             //dev1
             //dev2
             //master1
+            //master2
         }
     }
 }
