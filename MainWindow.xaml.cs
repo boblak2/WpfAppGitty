@@ -34,5 +34,11 @@ namespace WpfAppGitty
             //Stash 2
             //stash dev
         }
+
+        private void Test()
+        {
+
+        }
+
     }
 }
