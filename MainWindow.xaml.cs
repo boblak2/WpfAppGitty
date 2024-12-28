@@ -31,6 +31,8 @@ namespace WpfAppGitty
             //Burek branch2
             //Burek branch3
             //From burek branch
+
+            //Stash 2
         }
     }
 }
