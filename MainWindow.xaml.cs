@@ -34,5 +34,21 @@ namespace WpfAppGitty
             //Stash 2
             //stash dev
         }
+
+        private void Test()
+        {
+            //from remoteL
+            //stash new
+
+            //Stash bond
+            //Stash1
+            //Test Pr
+        }
+
+        private void TestPr()
+        {
+            //cheange1
+        }
+
     }
 }
