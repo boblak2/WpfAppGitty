@@ -38,6 +38,7 @@ namespace WpfAppGitty
         private void Test()
         {
             //from remoteL
+            //stash
         }
 
     }
