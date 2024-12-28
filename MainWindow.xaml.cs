@@ -44,5 +44,10 @@ namespace WpfAppGitty
             //Stash1
         }
 
+        private void TestPr()
+        {
+
+        }
+
     }
 }
