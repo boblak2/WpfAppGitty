@@ -20,6 +20,7 @@ namespace WpfAppGitty
         {
             InitializeComponent();
             //Comment 1
+            //Comment 2a
         }
     }
 }
