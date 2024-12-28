@@ -19,6 +19,7 @@ namespace WpfAppGitty
         public MainWindow()
         {
             InitializeComponent();
+            //Comment 1
         }
     }
 }
