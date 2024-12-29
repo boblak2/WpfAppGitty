@@ -48,8 +48,7 @@ namespace WpfAppGitty
 
         private void TestMan()
         {
-            //bla bla
-            //222
+            //New version stuff
         }
 
     }
