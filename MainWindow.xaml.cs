@@ -46,5 +46,10 @@ namespace WpfAppGitty
             //rv
         }
 
+        private void TestMan()
+        {
+            //bla bla
+        }
+
     }
 }
