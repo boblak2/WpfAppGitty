@@ -52,5 +52,10 @@ namespace WpfAppGitty
             //222
         }
 
+        private void TestGit()
+        {
+            //
+        }
+
     }
 }
