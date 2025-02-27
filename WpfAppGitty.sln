@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppGitty", "WpfAppGitty.csproj", "{C7AF9EB5-0CD8-4717-A9BC-02DDAEB08285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callculator", "..\Callculator\Callculator.csproj", "{78E3FFE7-7F21-4FE0-9738-058B85E869D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Callculator", "..\Callculator\Callculator.csproj", "{78E3FFE7-7F21-4FE0-9738-058B85E869D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "..\TestProject2\TestProject2.csproj", "{0568BCDF-82E1-416D-8E48-1A512213DEB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{78E3FFE7-7F21-4FE0-9738-058B85E869D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78E3FFE7-7F21-4FE0-9738-058B85E869D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78E3FFE7-7F21-4FE0-9738-058B85E869D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0568BCDF-82E1-416D-8E48-1A512213DEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0568BCDF-82E1-416D-8E48-1A512213DEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0568BCDF-82E1-416D-8E48-1A512213DEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0568BCDF-82E1-416D-8E48-1A512213DEB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
