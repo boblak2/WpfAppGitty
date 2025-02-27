@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Callculator;
 
 namespace WpfAppGitty
 {
@@ -56,6 +57,7 @@ namespace WpfAppGitty
             //cheange1
             //cheange2
             //cheange3
+            int res = Class1.Add(3);
         }
 
     }
