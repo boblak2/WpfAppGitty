@@ -48,8 +48,16 @@ namespace WpfAppGitty
 
         private void TestMan()
         {
-            //bla bla
-            //222
+            //New version stuff
+        }
+
+        private void TestPr()
+        {
+            //cheange1
+            //cheange2
+            //cheange3
+            //from abc :)
+            //from abc :(
         }
 
         private void TestGit()
