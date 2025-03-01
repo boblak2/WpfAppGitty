@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Callculator\Callculator.csproj" />
+    <ProjectReference Include="..\Langy\Langy.csproj" />
   </ItemGroup>
 
 </Project>

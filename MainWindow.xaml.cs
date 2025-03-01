@@ -9,6 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Callculator;
+using Langy;
 
 namespace WpfAppGitty
 {
@@ -34,6 +35,35 @@ namespace WpfAppGitty
             //From burek branch
             //Stash 2
             //stash dev
+
+            Test007 obj = new();
+            obj.Id = 1;
+            obj.Name = "bob";
+            obj.Age = 40;
+
+            var per = new Test007()
+            {
+                Id = 2,
+                Name = "slim",
+                Age = 36
+            };
+
+            Test007? bob = new Bob();
+            bob.Name = "bob es mi nombre";
+            //bob.IsClimb = true;
+            if (bob is Bob b)
+            {
+                b.IsClimb = true;
+                var v = b.BobJeVelik();
+            }
+
+
+            obj.Drink();
+            per.Drink();
+            bob?.Drink();
+
+            string ime = "slim";
+            ime.NaVeliko();
         }
 
         private void Test()
